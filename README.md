@@ -2,9 +2,9 @@
 
 Second-year computer science student (B.Tech, class of 2029). AI has made code cheap to write, so I focus on verifying it: tests for the code, and formal specs for the algorithms that matter most. Done right, that lets a small team ship what used to take a big one.
 
-I write mostly **Go**, my first language and still my favourite: HTTP servers and clients, concurrency, and pub/sub with RabbitMQ. In **TypeScript** it's React, Next.js, TanStack Start and Tailwind, and I'm bullish on [Effect](https://effect.website). I reach for **Python** for backend services and AI integrations.
+I write mostly **Go**, my first language and still my favourite: HTTP servers and clients, concurrency, and pub/sub with [RabbitMQ](https://www.rabbitmq.com). In **TypeScript** it's React, Next.js, [TanStack Start](https://tanstack.com/start) and Tailwind, and I'm bullish on [Effect](https://effect.website). I reach for **Python** for backend services and AI integrations.
 
-🔭 Right now I'm going deep on Kubernetes, distributed systems and system design, and learning TLA+.
+🔭 Right now I'm going deep on Kubernetes, distributed systems and system design, and learning [TLA+](https://lamport.azurewebsites.net/tla/tla.html).
 
 ### 🔨 What I've been building
 
